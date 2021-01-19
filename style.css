@@ -21,6 +21,11 @@ body{
     align-items: center;
 }
 
+nav img{
+    padding: 20px;
+    width: 200px;
+}
+
 nav{
     background: transparent;
     height: 80px;
@@ -53,8 +58,8 @@ nav ul li a:hover{
 
 .toggle-button {
     position: absolute;
-    top: 0.75rem;
-    right: 1rem;
+    top: 2rem;
+    right: 2.25rem;
     display: none;
     flex-direction: column;
     justify-content: space-between;
